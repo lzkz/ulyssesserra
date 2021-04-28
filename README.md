@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/ulyssesserra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulyssesserra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyssesserra&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulyssesserra&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>   
   
   ##
@@ -29,6 +29,7 @@
   <a href="https://codepen.io/ulyssesserra" target="_blank"><img src="https://img.shields.io/badge/-codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ulysseserra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 
