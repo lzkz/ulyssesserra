@@ -30,6 +30,7 @@
   
   <div>
   <a href = "mailto: ulysseserra@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "http://bit.ly/whatstiestacio"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/ulyssesserra" target="_blank"><img src="https://img.shields.io/badge/-codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ulysseserra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ulysseserra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
